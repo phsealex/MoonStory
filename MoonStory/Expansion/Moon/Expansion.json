@@ -1,0 +1,8 @@
+{
+	"save_slot_identifier" : "MoonStory",
+	"full_name" : "Moon Story",
+	"description" : "Beat Cave Story on the Moon!",
+	"difficulties" : true,
+	"requirement" : "best ending",
+	"requirement_number" : 0
+}
